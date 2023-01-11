@@ -19,7 +19,8 @@ The students can feel free to contact the TA to clarify their doubts and queries
 [RackUnit](https://docs.racket-lang.org/rackunit/): Useful for testing  
 
 ### Assignment statement:
-Solve the first 25 problems mentioned in [Ninety-Nine Lisp Problems](https://www.ic.unicamp.br/~meidanis/courses/mc336/2006s2/funcional/L-99_Ninety-Nine_Lisp_Problems.html) using only the following:
+Solve the first 25 problems mentioned in [Ninety-Nine Lisp Problems](https://www.ic.unicamp.br/~meidanis/courses/mc336/2006s2/funcional/L-99_Ninety-Nine_Lisp_Problems.html).
+We recommend using the following functions:
 * Arithmetic (+, -, *, etc)
 * cons, car, cdr, and their variations like caddr, etc
 * let, and its variations like letrec, let*, etc
@@ -31,7 +32,6 @@ Solve the first 25 problems mentioned in [Ninety-Nine Lisp Problems](https://www
 * eq? and its variants like eqv?, equal?, etc
 * random (for problem 23)
 * sort (for problem 28)
-* Any helper functions defined by the student
 
 The testing will be automated, hence use the function names provided in the problem list. Use the following names for problems without function names:
 * Problem 04 : my-lenght
@@ -51,6 +51,8 @@ The committed repo should have just the following two files:
 *rollnumber*/  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  |- *rollnumber.rkt*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  |- *rollnumber_tests.rkt*  
+
+Please rename your repository to reflect your roll number.
 
 rollnumber.rkt should have all functions required in the questions. Additional helper functions may be used.
 rollnumber_tests.rkt should have all the tests cases. 
