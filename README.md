@@ -34,7 +34,7 @@ We recommend using the following functions:
 * sort (for problem 28)
 
 The testing will be automated, hence use the function names provided in the problem list. Use the following names for problems without function names:
-* Problem 04 : my-lenght
+* Problem 04 : my-length
 * Problem 05 : my-reverse
 * Problem 06 : palindrome?
 * Problem 12 : decode
@@ -55,7 +55,7 @@ The committed repo should have just the following two files:
 Please rename your repository to reflect your roll number.
 
 rollnumber.rkt should have all functions required in the questions. Additional helper functions may be used. <br/>
-rollnumber-tests.rkt should have all the tests cases. <br/>
+rollnumber_tests.rkt should have all the tests cases. <br/>
 The testing will be automated. Therefore the submission format needs to be strictly followed. A 20% penalty will be levied if the format is not followed.
 
 Sample files are provided in the repository for reference.
