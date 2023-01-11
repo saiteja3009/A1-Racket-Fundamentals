@@ -43,7 +43,7 @@ The testing will be automated, hence use the function names provided in the prob
 1. For each question, implement at least three tests (not including provided examples).
 2. Solutions for the previous problems can be reused to solve the current problem.
 2. Students are advised to use recursion, higher-order function, and pattern matching extensively. However, any for/while loops will be penalized even though Racket supports loops.
-4. Many of the questions can be solved directly by invoking a corresponding racket function. However, such implementation will be awarded zero points. For example, the first question can be solved by calling the built-in last function of Racket. However, students are expected to implement it using recursion and other racket functions).
+4. Many of the questions can be solved directly by invoking a corresponding racket function. However, such implementation will be awarded zero points. (For example, the first question can be solved by calling the built-in last function of Racket. However, students are expected to implement it using recursion and other racket functions).
 
 ## Submission instructions
 The committed repo should have just the following two files:  
