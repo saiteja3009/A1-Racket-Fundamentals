@@ -56,6 +56,5 @@ Please rename your repository to reflect your roll number.
 
 rollnumber.rkt should have all functions required in the questions. Additional helper functions may be used. <br/>
 rollnumber_tests.rkt should have all the tests cases. <br/>
-The testing will be automated. Therefore the submission format needs to be strictly followed. A 20% penalty will be levied if the format is not followed.
-
+The testing will be automated. Therefore the submission format needs to be strictly followed. Submissions not following the format will be awarded straight 0.
 Sample files are provided in the repository for reference.
